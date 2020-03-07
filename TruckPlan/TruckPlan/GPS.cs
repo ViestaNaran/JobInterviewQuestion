@@ -103,7 +103,6 @@ namespace TruckPlan
             }   
         }
         
-
         public void InitTimer()
         {
             timer1 = new Timer(updateTimer);
